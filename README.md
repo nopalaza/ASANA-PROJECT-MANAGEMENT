@@ -36,7 +36,7 @@ atau terlalu berlebihan. Melalui fitur ini, kamu juga bisa memberikan target ter
 
 ## II. Cara Penggunaan *Tool* Asana
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%201.png)
+<img src="Dokumentasi Asana/ASANA 1.png" alt="Photo Asana" title="Preview Asana">
 
 ### A. Mendaftar Akun Asana
 
@@ -46,23 +46,23 @@ Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://a
 dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Sign up with your Gougle work account*" atau dengan "*Memasukkan Alamat Email 
 pada Textbox yang tersedia*". Lalu, klik *button* "*Sign Up*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%202.png)
+<img src="Dokumentasi Asana/ASANA 2.png" alt="Photo Asana" title="Preview Asana">
 
  **2. Verifikasi Akun**
 
 Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*" anda dimintai untuk melakukan verifikasi alamat email yang anda cantumkan. Cek kotak masuk 
 email dan klik *button* "*Verify email address*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%203.png)
+<img src="Dokumentasi Asana/ASANA 3.png" alt="Photo Asana" title="Preview Asana">
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%204.png)
+<img src="Dokumentasi Asana/ASANA 4.png" alt="Photo Asana" title="Preview Asana">
 
  **3. Mempersiapkan akun**
 
 Setelah melakukan "*Verify email address*" anda akan dikembalikan ke halaman resmi Asana pada laman "*account setup*" untuk melengkapi data nama lengkap dan password akun 
 Asana. Setelah selesai terisi klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%205.png)
+<img src="Dokumentasi Asana/ASANA 5.png" alt="Photo Asana" title="Preview Asana">
 
  **4. Mengisi form data peran utama**
 
@@ -70,7 +70,7 @@ Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama
 pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang 
 pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%206.png)
+<img src="Dokumentasi Asana/ASANA 6.png" alt="Photo Asana" title="Preview Asana">
 
  **5. Memilih bidang pekerjaan**
 
@@ -78,98 +78,98 @@ Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan u
 menggunakan *tool* Asana ini untuk melakukan manajemen proyek, ya tinggal pilih opsi yang tersedia dan sesuai yaitu "*Project or Program Management*". Bila sudah serasa 
 memilih opsi yang diperlukan klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%207.png)
+<img src="Dokumentasi Asana/ASANA 7.png" alt="Photo Asana" title="Preview Asana">
 
  **6. Memilih tujuan penggunaan Asana**
 
 Setelah memilih bidang pekerjaan anda yaitu "*Project or Program Management*". Maka terdapat opsi tujuan apa yang anda akan lakukan di Asana. Terdapat rekomendasi untuk anda 
 pada opsi tersebut. Selanjutnya jika sudah klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%208.png)
+<img src="Dokumentasi Asana/ASANA 8.png" alt="Photo Asana" title="Preview Asana">
 
  **7. Konfigurasi proyek pertama**
 
 Setelah mengisi beberapa form, dilanjutkan untuk memberi nama pada proyek pertama anda. Jika sudah klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%209.png)
+<img src="Dokumentasi Asana/ASANA 9.png" alt="Photo Asana" title="Preview Asana">
 
  **8. Mengisi apa saja tugas yang mau dikerjakan**
 
 Pada tahap ini anda perlu mengisikan tugas apa saja yang mau dikerjakan pada proyek pertamamu. Jika sudah seperti biasa klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2010.png)
+<img src="Dokumentasi Asana/ASANA 10.png" alt="Photo Asana" title="Preview Asana">
 
  **9. Mengelompokkan tugas**
 
 Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau tahapan proyek. Jika sudah klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2011.png)
+<img src="Dokumentasi Asana/ASANA 11.png" alt="Photo Asana" title="Preview Asana">
 
  **10. Menambahkan detail**
 
 Tahap ini dilakukan menambahkan detail ke proyek anda. Jika sudah klik *button* "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2012.png)
+<img src="Dokumentasi Asana/ASANA 12.png" alt="Photo Asana" title="Preview Asana">
 
  **11. Memilih tata letak proyek**
 
 Setelah serangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai dan efektif untuk proses manajemen proyek yang anda lakukan. Jika sudah klik *button* 
 "*Continue*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2013.png)
+<img src="Dokumentasi Asana/ASANA 13.png" alt="Photo Asana" title="Preview Asana">
 
  **12. Mengundang rekan tim**
 
 Bisa mengundang rekan melalui alamat email jika proyek yang dikerjakan dalam bentuk tim. Jika sudah klik *button* "*Continue*" dan akan ditampilkan halaman yang berisikan 
 button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* "*Skip for now*".
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2014.png)
+<img src="Dokumentasi Asana/ASANA 14.png" alt="Photo Asana" title="Preview Asana">
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2015.png)
+<img src="Dokumentasi Asana/ASANA 15.png" alt="Photo Asana" title="Preview Asana">
 
  **13. Dashboard Asana**
 
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2016.png)
+<img src="Dokumentasi Asana/ASANA 16.png" alt="Photo Asana" title="Preview Asana">
 
 ### B. Cara membuat proyek baru
 
  **1. Untuk membuat proyek baru klik *button* "*plus*" pada pojok kanan atas, kemudian klik opsi "*Project*"**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2017.png)
+<img src="Dokumentasi Asana/ASANA 17.png" alt="Photo Asana" title="Preview Asana">
 
  **2. Kemudian anda bisa memilih opsi "Blank project" untuk memulai proyek kosongan**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2018.png)
+<img src="Dokumentasi Asana/ASANA 18.png" alt="Photo Asana" title="Preview Asana">
 
  **3. Lalu, beri nama proyek dan pilih tampilan dari proyekmu bisa berupa *List*, *Board*, *Timeline*, dan *Calender*. Dan disini anda bisa mengatur privasi ruang kerja 
  proyekmu ini yang bersifat privat atau publik di dropdown yang tersedia. Selanjutnya klik *button* "*Continue setup*"**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2019.png)
+<img src="Dokumentasi Asana/ASANA 19.png" alt="Photo Asana" title="Preview Asana">
 
  **4. Lanjut, anda juga bisa membuat alur kerja ideal dengan memilih dari tiga pilihan yang trsedia *Automated intake*, *Clear prioritization*, dan *Visible progress* untuk 
  proyek yang anda telah buat. Selanjutnya bisa klik *button* "*Add to project*"**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2020.png)
+<img src="Dokumentasi Asana/ASANA 20.png" alt="Photo Asana" title="Preview Asana">
 
  **5. Setelah beberapa tahapan selesai, anda akan dibawa langsung ke tampilan ruang kerja proyek**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2021.png)
+<img src="Dokumentasi Asana/ASANA 21.png" alt="Photo Asana" title="Preview Asana">
 
  **6. Di ruang kerja proyek ini anda bisa mengubah nama proyek, bisa mengundang rekan kerja untuk berpartisipasi dalam proyek yang mau diselesaikan, dan tanggal batasan mau 
  dikerjakan sampai kapan proyeknya**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2022.png)
+<img src="Dokumentasi Asana/ASANA 22.png" alt="Photo Asana" title="Preview Asana">
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2023.png)
+<img src="Dokumentasi Asana/ASANA 23.png" alt="Photo Asana" title="Preview Asana">
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2024.png)
+<img src="Dokumentasi Asana/ASANA 24.png" alt="Photo Asana" title="Preview Asana">
 
  **7. Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang dengan klik *button* "*Mark complete*" sebagai pertanda bahwa tugas tersebut telah 
  diselesaikan**
 
-![alt text](https://github.com/nopalaza/ASANA-PROJECT-MANAGEMENT/blob/main/Dokumentasi%20Asana/ASANA%2025.png)
+<img src="Dokumentasi Asana/ASANA 25.png" alt="Photo Asana" title="Preview Asana">
 
 ### C. Pilihan Paket Asana
 
